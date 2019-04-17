@@ -118,6 +118,11 @@ figcaption {
   line-height: 0;
 }
 
+#social {
+  position: fixed;
+  
+}
+
 /*///////// MEDIA /////////*/
 
 img, video, audio {
