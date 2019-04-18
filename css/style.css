@@ -121,8 +121,16 @@ figcaption {
 #social {
   position: fixed;
   top: 200px;
-  right 200px;
+  right: 200px;
   width: 40px;
+  z-index: 1;
+}
+
+#social a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
 }
 
 /*///////// MEDIA /////////*/
