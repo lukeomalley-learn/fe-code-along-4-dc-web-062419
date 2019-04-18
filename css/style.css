@@ -79,6 +79,11 @@ figcaption {
   box-sizing: border-box;
 }
 
+header {
+  position: fixed;
+  
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
